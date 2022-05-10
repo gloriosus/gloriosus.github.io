@@ -45,12 +45,13 @@ a {
 }
 
 #social {
-    width: 140px;
+    width: 145px;
     margin-top: 20px;
 }
 
 #social a {
     margin: 0 5px;
+    font-size: 32px;
 }
 
 #info {
