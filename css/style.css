@@ -64,7 +64,7 @@ a {
     transform: translateY(-50%);
 }
 
-#contact:hover {
+.underline:hover {
     text-decoration: underline;
     color: #aaaaaa;
 }
